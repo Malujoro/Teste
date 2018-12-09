@@ -1,0 +1,8 @@
+#EXTM3U
+
+##########################################################################################################################################################
+##########################################################################################################################################################
+    ###Teste
+	
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Tv Infantil",Cartoon Network
+http://ul.cdn584.net:8080/hls/maus2nt.m3u8?s=L4WT8C-jFVhSPKWt1Erasg&e=1544388479
