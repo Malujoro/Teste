@@ -1,8 +1,7 @@
 #EXTM3U
 
-##########################################################################################################################################################
-##########################################################################################################################################################
-    ###Teste
-	
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Tv Infantil",Cartoon Network
 http://ul.cdn584.net:8080/hls/maus2nt.m3u8?s=L4WT8C-jFVhSPKWt1Erasg&e=1544388479
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-elibMYmlVbw/WVvrPj5zYeI/AAAAAAAA8LA/nRG5Chj-sfwGcPEQkojMbERE4YX8yc-zACLcBGAs/s1600/Nickelodeon-Lip-Sync-Battle-Shorties-Kids.png" group-title="Tv Infantil",Nickelodeon
+https://www.toquemp3.com:25463/live/alksfaksdfpwoie/roipqsioercmkls/123.m3u8?token=QxBcWRdYGgoRVQFTUwIJXA5cVlsAV1ZaAAMKBVoMBQIAVAYPXVIBAwtDHxcXREpcVghtUVcUXlIKARQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDAQMKDRcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEn8UewRQGGdTCAZbXVUTcVdTWEpfVUwNU1kQfxVXVEQdGHRyRx4aUV8QEVlGXRECGwcBCAAWFEZTV0VdFUFMRgoae2VHHhpWThAGVkFRXFYbDxVVAUEARhwaWUA+QVAXREpcVghXShEMRlMaHhpeWUFqVFdcWl0HRFFfXRIRD0YAGhUVCF1WWkILEWdCUVcaAxcECAADDEZN
