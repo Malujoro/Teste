@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Canais Pagos" type="stream" pltv-subgroup="Tv Infantil" ,Cartoon Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Canais Pagos", Cartoon Network
 http://ul.cdn584.net:8080/hls/maus2nt.m3u8?s=L4WT8C-jFVhSPKWt1Erasg&e=1544388479
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-elibMYmlVbw/WVvrPj5zYeI/AAAAAAAA8LA/nRG5Chj-sfwGcPEQkojMbERE4YX8yc-zACLcBGAs/s1600/Nickelodeon-Lip-Sync-Battle-Shorties-Kids.png" group-title="Canais Pagos" type="stream" pltv-subgroup="Tv Infantil" ,Nickelodeon
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-elibMYmlVbw/WVvrPj5zYeI/AAAAAAAA8LA/nRG5Chj-sfwGcPEQkojMbERE4YX8yc-zACLcBGAs/s1600/Nickelodeon-Lip-Sync-Battle-Shorties-Kids.png" group-title="Canais Pagos", Nickelodeon
 https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/123.m3u8
