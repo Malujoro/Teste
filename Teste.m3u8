@@ -2,11 +2,11 @@
 
 ######################### Canais Pagos #########################
 
-#EXTINF:-1 group-title="Canais Pagos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" type="stream" pltv-subgroup="Cartoon Network" Cartoon Network
-http://ul.cdn584.net:8080/hls/maus2nt.m3u8?s=L4WT8C-jFVhSPKWt1Erasg&e=1544388479
+#EXTINF:-1 group-title="Canais Pagos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" type="stream" pltv-subgroup="Cartoon Network", Cartoon Network
+https://www.toquemp3.com:25463/live/alksfaksdfpwoie/roipqsioercmkls/117.m3u8?token=QxBcWRdYGgoRUVIMUAEPDAVWAgoGBlVUWgcLAAhaAwYPAAJcVwYKVlJDHxcXREpcVghtUVcUXlIJBRQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDCgAPABcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEn8UewRQGGdTCAZbXVUTcVdTWEpfVUwNU1kQfxVXVEQdGHRyRx4aUV8QEVlGXRECGwQHCQYWFEZTV0VdFUFMRgoae2VHHhpWThAGVkFRXFYbDxVVAUEARhwaWUA+QVAXREpcVghXShEMRlMaHhpeWUFqVFdcWl0HRFFfXRIRD0YAGhUVCF1WWkILEWdCUVcaAxcGDgoGD0ZN
 
-#EXTINF:-1 group-title="Canais Pagos" tvg-logo="https://4.bp.blogspot.com/-elibMYmlVbw/WVvrPj5zYeI/AAAAAAAA8LA/nRG5Chj-sfwGcPEQkojMbERE4YX8yc-zACLcBGAs/s1600/Nickelodeon-Lip-Sync-Battle-Shorties-Kids.png" type="stream" pltv-subgroup="Nickelodeon" Nickelodeon
-https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/123.m3u8
+#EXTINF:-1 group-title="Canais Pagos" tvg-logo="https://4.bp.blogspot.com/-elibMYmlVbw/WVvrPj5zYeI/AAAAAAAA8LA/nRG5Chj-sfwGcPEQkojMbERE4YX8yc-zACLcBGAs/s1600/Nickelodeon-Lip-Sync-Battle-Shorties-Kids.png" type="stream" pltv-subgroup="Nickelodeon", Nickelodeon
+https://www.toquemp3.com:25463/live/alksfaksdfpwoie/roipqsioercmkls/123.m3u8?token=QxBcWRdYGgoRVwtWAFNbDAAHUAkLV1FVCARcVQoMBQ4NCwIMBQMBAgFDHxcXREpcVghtUVcUXlIKARQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoBCgANCRcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEn8UewRQGGdTCAZbXVUTcVdTWEpfVUwNU1kQfxVXVEQdGHRyRx4aUV8QEVlGXRECGwQFDQUWFEZTV0VdFUFMRgoae2VHHhpWThAGVkFRXFYbDxVVAUEARhwaWUA+QVAXREpcVghXShEMRlMaHhpeWUFqVFdcWl0HRFFfXRIRD0YAGhUVCF1WWkILEWdCUVcaAxcGCgIAAUZN
 
 ######################### Filmes #########################
 
