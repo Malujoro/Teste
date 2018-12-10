@@ -1,7 +1,6 @@
 #EXTM3U
 
-######################### LANÇAMENTOS 2018 #########################
-LETRA #1 #################
+######################### Canais Pagos #########################
 
 #EXTINF:-1 group-title="Canais Pagos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" type="stream" pltv-subgroup="Cartoon Network" Cartoon Network
 http://ul.cdn584.net:8080/hls/maus2nt.m3u8?s=L4WT8C-jFVhSPKWt1Erasg&e=1544388479
@@ -9,5 +8,15 @@ http://ul.cdn584.net:8080/hls/maus2nt.m3u8?s=L4WT8C-jFVhSPKWt1Erasg&e=1544388479
 #EXTINF:-1 group-title="Canais Pagos" tvg-logo="https://4.bp.blogspot.com/-elibMYmlVbw/WVvrPj5zYeI/AAAAAAAA8LA/nRG5Chj-sfwGcPEQkojMbERE4YX8yc-zACLcBGAs/s1600/Nickelodeon-Lip-Sync-Battle-Shorties-Kids.png" type="stream" pltv-subgroup="Nickelodeon" Nickelodeon
 https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/123.m3u8
 
+######################### Filmes #########################
+
 #EXTINF:-1 group-title="Filmes" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/11/28/19/03/5043910.jpg" type="video" pltv-subgroup="Jumanji (2018)", Jumanji (2018)
 http://server2.cometa.top/RedeCanais/RCFServer4/ondemand/JMNJBMVNDASLV.mp4
+
+######################### Animes #########################
+
+#EXTINF:-1 group-title="Animes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/SAO_Alicization_Key_Visual.jpg/220px-SAO_Alicization_Key_Visual.jpg" type="video" pltv-subgroup="Sword art Online Alicization Ep10", Sword art Online Alicization Ep10
+https://r1---sn-4g5ednsr.googlevideo.com/videoplayback?id=111351234890d5a0&itag=18&source=blogger&mm=31&mn=sn-4g5ednsr&ms=au&mv=m&pl=43&ei=PnAOXMq-B5TzqQXP1ItQ&susc=bl&mime=video/mp4&dur=1424.637&lmt=1544292780551883&mt=1544449940&ip=2a01:4f8:162:5490::2&ipbits=0&expire=1544478910&sparams=ip,ipbits,expire,id,itag,source,mm,mn,ms,mv,pl,ei,susc,mime,dur,lmt&signature=029E7EFCC8D99B8FEB62CF04FF409A067D617346D425A1513C6CF286FA97EC03.67B05463D60DC58E51B0FF8D621A9FB8A17B52B11C3C87AF99510DCB16CDC9CC&key=us0
+
+#EXTINF:-1 group-title="Animes" tvg-logo="https://www.animeunited.com.br/wp-content/uploads/2018/10/Goblin-Slayer-key-art.jpg" type="video" pltv-subgroup="Goblin Slayer Ep10", Goblin Slayer Ep10
+https://r1---sn-4g5ednsk.googlevideo.com/videoplayback?id=55f198440fd76c21&itag=18&source=blogger&mm=31&mn=sn-4g5ednsk&ms=au&mv=m&pl=43&ei=OHAOXNnAN9fqqgWp0Y_YAw&susc=bl&mime=video/mp4&dur=1415.233&lmt=1544292822880647&mt=1544449940&ip=2a01:4f8:162:5490::2&ipbits=0&expire=1544478904&sparams=ip,ipbits,expire,id,itag,source,mm,mn,ms,mv,pl,ei,susc,mime,dur,lmt&signature=32692A0441E3699465A34FCF2875E3207B6A25069605FB93E2B36A97FFF0A50D.1E44EA21CAAA5DE9F2A6CE7AC9967AC85690EDE25C2F39C47658038576172131&key=us0
